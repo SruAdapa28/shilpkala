@@ -1,9 +1,4 @@
-## SHILPKALA: Because They Create It With Love
-
-![home1](./Resources/home1.png?raw=true "home1")
-![dashboard](./Resources/dashboard.png?raw=true "dashboard")
-![pdp](./Resources/pdp.png?raw=true "pdp")
-
+## SHILPKALA
 
 > Overview 
 
@@ -90,13 +85,6 @@ Shilpkala is an Indian handicraft and DIY small business website. Shilpkala offe
 - Password encryption using bcrypt
 - A Model-View-Controller architecture is followed throughout the project
 - The entire application is deployed at AWS EC2 Instances - http://ec2-52-204-199-112.compute-1.amazonaws.com/
-
-
-> Responsiveness:
-![responsive1](./Resources/responsive%201.png?raw=true "responsive1")
-![responsive2](./Resources/responsive%202.png?raw=true "responsive2")
-
-
 
 
 ## Env Variables
